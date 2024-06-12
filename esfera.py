@@ -1,3 +1,10 @@
+#
+#
+# Este código no forma parte del tfg pero se creó para estudiar las coordenadas esféricas de cara a preparar la aplicación práctica
+#
+#
+
+
 import cv2
 import numpy as np
 import PyKDL
